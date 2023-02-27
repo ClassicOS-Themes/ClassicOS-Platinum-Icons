@@ -1,0 +1,32 @@
+# General Information
+ICON_THEME_NAME="ClassicOS Platinum" 
+ICON_THEME_DESCRIPTION="Colorful icons so you can party like it's 1999" 
+ICON_THEME_SLUG="ClassicOS-Platinum"
+ICON_THEME_VERSION="0.1.0"
+
+# Templates to build
+ICON_THEME_TEMPLATES=( folder media-optical )
+
+# Icon sizes
+ICON_THEME_SIZES=( 16 32 48 )
+ICON_THEME_ADDITIONAL_SCALES=(2)
+
+# Specific to the freedesktop icon theme
+# ICON_THEME_MIN_SIZE=8
+# ICON_THEME_MAX_SIZE=1024
+# ICON_THEME_SCALABLE_NOMINAL_SIZE=128
+ICON_THEME_INHERITS=( NineIcons-redux NineIcons GNUstep gnustep tango adwaita gnome hicolor )
+ICON_THEME_EXAMPLE="folder"
+
+# Translations
+ICON_THEME_NAME_T[en]="ClassicOS Platinum"
+ICON_THEME_NAME_T[en_US]="ClassicOS Platinum"
+ICON_THEME_NAME_T[en_GB]="ClassicOS Platinum"
+ICON_THEME_NAME_T[en_CA]="ClassicOS Platinum"
+ICON_THEME_NAME_T[fr]="ClassicOS Platine"
+
+ICON_THEME_DESCRIPTION_T[en]="Colorful icons so you can party like it's 1999"
+ICON_THEME_DESCRIPTION_T[en_US]="Colorful icons so you can party like it's 1999"
+ICON_THEME_DESCRIPTION_T[en_GB]="Colourful icons so you can party like it's 1999"
+ICON_THEME_DESCRIPTION_T[en_CA]="Colourful icons so you can party like it's 1999"
+ICON_THEME_DESCRIPTION_T[fr]="Icônes colorées pour faire la fête comme en 1999"

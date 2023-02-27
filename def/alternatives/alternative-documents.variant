@@ -1,0 +1,4 @@
+VARIANT_NAME="Alternative Documents Folder"
+VARIANT_SLUG="alt-documents"
+ADDITIONAL_TEMPLATES=()
+ADDITIONAL_LISTS=(alternative-documents)
