@@ -8,7 +8,7 @@ ICON_THEME_VERSION="0.1.0"
 ICON_THEME_TEMPLATES=( folder file media-optical )
 
 # Icon sizes
-ICON_THEME_SIZES=( 16 32 48 )
+ICON_THEME_SIZES=( 16 24 32 48 )
 ICON_THEME_ADDITIONAL_SCALES=( )
 
 # Specific to the freedesktop icon theme

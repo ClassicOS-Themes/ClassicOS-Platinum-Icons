@@ -1,4 +1,0 @@
-VARIANT_NAME="Alternative Documents Folder"
-VARIANT_SLUG="alt-documents"
-ADDITIONAL_TEMPLATES=(folder-blue)
-ADDITIONAL_LISTS=()
