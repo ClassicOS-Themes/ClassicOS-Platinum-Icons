@@ -4,7 +4,7 @@
 <svg
    width="48"
    height="48"
-   viewBox="0 0 12.7 12.7"
+   viewBox="0 0 48 48"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -25,13 +25,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="17.566436"
-     inkscape:cx="18.558118"
-     inkscape:cy="23.396892"
-     inkscape:window-width="1136"
-     inkscape:window-height="686"
-     inkscape:window-x="2148"
-     inkscape:window-y="360"
+     inkscape:zoom="5.7953394"
+     inkscape:cx="-7.5060315"
+     inkscape:cy="35.632081"
+     inkscape:window-width="1192"
+     inkscape:window-height="747"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg5"><inkscape:grid
        type="xygrid"
@@ -39,8 +39,8 @@
        originx="0"
        originy="0"
        empspacing="2"
-       spacingx="0.13229166"
-       spacingy="0.13229166" /></sodipodi:namedview><defs
+       spacingx="0.5"
+       spacingy="0.5" /></sodipodi:namedview><defs
      id="defs2"><linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient32378"
@@ -97,7 +97,7 @@
          offset="1"
          id="stop34849" /></linearGradient></defs><g
      id="g33649"
-     transform="matrix(1.5294117,0,0,1.5256831,0.84806189,-0.41232865)"
+     transform="matrix(5.7804537,0,0,5.7663613,-0.7951158,-1.5580167)"
      style="stroke-width:0.654645"><path
        style="fill:none;fill-opacity:1;stroke:#010101;stroke-width:0.173208;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:0.25"
        d="m 1.4552082,3.8364582 v 4.4979163 l 3.4395832,1e-7 1.056e-4,-3.9020463 -0.6054888,-0.6069685 -2.8342,0.011098"

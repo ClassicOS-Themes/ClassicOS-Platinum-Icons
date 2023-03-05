@@ -1,0 +1,11 @@
+file
+file-image-raster
+file-image-raster image-bmp
+file-image-raster image-gif
+file-image-raster image-jpeg
+file-image-raster image-png
+file-image-raster image-tiff
+file-image-raster image-webp
+file-image-raster image-xcf
+file-image-vector
+file-image-vector image-svg
